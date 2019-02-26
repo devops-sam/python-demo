@@ -1,5 +1,0 @@
-car	200000
-iphone  4900
-t-shirt 400
-bycle   1500
-coffee   35
